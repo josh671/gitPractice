@@ -4,7 +4,7 @@ Practicing git commands for pulling and pushing to repository
 
 1. first git command practiced 
 -creates, list, rename, delete branches  
--branch should be created on github first 
+-branch can either be created on github or using git branch command 
 
 git branch josh1 
 
@@ -14,3 +14,4 @@ git branch josh1
 -branch name comes after checkout command
 git checkout josh1  
 
+3. 
